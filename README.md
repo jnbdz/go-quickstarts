@@ -2,3 +2,7 @@
 
 # go-quickstarts
 Go quickstart code
+
+## Resources
+### Blog
+- [When to create an interface in Go? | fbeaudet.substack.com](https://fbeaudet.substack.com/p/when-to-create-an-interface-in-go)
