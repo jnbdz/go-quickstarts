@@ -8,3 +8,4 @@ Go quickstart code
 - [Version numbers | Dev | Go](https://go.dev/doc/modules/version-numbers)
 ### Blog
 - [When to create an interface in Go? | fbeaudet.substack.com](https://fbeaudet.substack.com/p/when-to-create-an-interface-in-go)
+- [Parallelism and Concurrency in Go: How It Works in Real Computing Systems. Part 1. | Medium](https://medium.com/@ninucium/parallelism-and-concurrency-in-go-how-it-works-in-real-computing-systems-part-1-a680443ad8bd)
