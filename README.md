@@ -4,6 +4,9 @@
 Go quickstart code
 
 ## Resources
+### Tutorials
+- [Effective Go | Go](https://go.dev/doc/effective_go)
+- [Welcome to a tour of Go | go.dev](https://go.dev/tour/list)
 ### Docs
 - [Version numbers | Dev | Go](https://go.dev/doc/modules/version-numbers)
 ### Blog
